@@ -1,5 +1,7 @@
 # https://github.com/gpakosz/.tmux
-# (‑●‑●)> released under the WTFPL v2 license, by Gregory Pakosz (@gpakosz)
+# (‑●‑●)> dual licensed under the WTFPL v2 license and the MIT license,
+#         without any warranty.
+#         Copyright 2012— Gregory Pakosz (@gpakosz).
 
 
 # -- navigation ----------------------------------------------------------------
@@ -169,15 +171,15 @@ tmux_conf_theme_status_right_bg='#080808,#fff9c4,#fff9c4'
 tmux_conf_theme_status_right_attr='bold,bold,bold'
 
 # pairing indicator
-tmux_conf_theme_pairing='👓'          # U+1F453
+tmux_conf_theme_pairing='👓 '          # U+1F453
 tmux_conf_theme_pairing_fg='none'
 tmux_conf_theme_pairing_bg='none'
 tmux_conf_theme_pairing_attr='none'
 
 # prefix indicator
-tmux_conf_theme_prefix=''
-tmux_conf_theme_prefix_fg='#d50000'
-tmux_conf_theme_prefix_bg=''
+tmux_conf_theme_prefix='⌨ '            # U+2328
+tmux_conf_theme_prefix_fg='none'
+tmux_conf_theme_prefix_bg='none'
 tmux_conf_theme_prefix_attr='none'
 
 # root indicator
