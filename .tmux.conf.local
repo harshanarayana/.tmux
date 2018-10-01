@@ -250,7 +250,7 @@ set -g history-limit 100000000
 
 set -g -q mouse on
 
-bind-key a run-shell "tmux save-buffer - | nc localhost 8377"
+bind-key a run-shell "tmux save-buffer - | piknik -copy"
 
 bind-key right split-window -h
 bind-key left split-window -hb
