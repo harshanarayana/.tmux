@@ -1,0 +1,7 @@
+pane	090535	1	:nvim	1	:*	1	:/Users/andrewrech	1	nvim	:/usr/local/bin/nvim Iteration.Rmd
+-zsh
+pane	090535	1	:nvim	1	:*	2	:/Users/andrewrech/Dropbox/immune.ml	0	zsh	:-zsh
+pane	090535	2	:zsh	0	:-	1	:/Users/andrewrech/Downloads	1	zsh	:-zsh
+window	090535	1	1	:*	6379,287x160,0,0{143x160,0,0,8,143x160,144,0,10}
+window	090535	2	0	:-	9146,287x160,0,0,9
+state	090535	

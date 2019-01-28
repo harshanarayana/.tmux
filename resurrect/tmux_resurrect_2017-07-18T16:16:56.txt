@@ -1,0 +1,9 @@
+pane	161603	1	:zsh	1	:*	1	:/Users/andrewrech	0	mosh-client	:/usr/local/Cellar/mobile-shell/1.3.0_1/bin/mosh-client -# root@ec2-54-152-110-191.compute-1.amazonaws.com | 54.152.110.191 60005
+-zsh
+pane	161603	1	:zsh	1	:*	2	:/Users/andrewrech	1	zsh	:-zsh
+pane	161603	1	:zsh	1	:*	3	:/Users/andrewrech	0	zsh	:-zsh
+pane	161603	1	:zsh	1	:*	4	:/Users/andrewrech	0	mosh-client	:/usr/local/Cellar/mobile-shell/1.3.0_1/bin/mosh-client -# root@ec2-54-152-110-191.compute-1.amazonaws.com | 54.152.110.191 60006
+-zsh
+pane	161603	1	:zsh	1	:*	5	:/Users/andrewrech	0	zsh	:-zsh
+window	161603	1	1	:*	5329,384x236,0,0{192x236,0,0[192x177,0,0{96x177,0,0,0,95x177,97,0,5},192x58,0,178,3],191x236,193,0[191x118,193,0,1,191x117,193,119,4]}
+state	161603	

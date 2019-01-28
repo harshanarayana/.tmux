@@ -1,0 +1,11 @@
+pane	060453	1	:git	0	:#-	1	:	0	zsh...	:-zsh
+less -K -J -g -i -M -R -w -z -4 -n -q -s
+pane	060453	1	:git	0	:#-	2	:/Users/andrewrech/Dropbox/Mackup	0	zsh	:-zsh
+pane	060453	1	:git	0	:#-	3	:/Users/andrewrech/Dropbox/Rech_spatiotemporal	0	zsh	:-zsh
+pane	060453	1	:git	0	:#-	4	:/Users/andrewrech/Dropbox/Mackup	1	git	:git commit
+-zsh
+pane	060453	2	:ruby	1	:*	1	:/Users/andrewrech/Dropbox/immune.ml	1	ruby	:ruby /usr/local/bin/ghi new
+-zsh
+window	060453	1	0	:#-	1bd2,191x160,0,0{95x160,0,0[95x80,0,0,0,95x39,0,81,3,95x39,0,121,4],95x160,96,0,1}
+window	060453	2	1	:*	8fd3,191x160,0,0,6
+state	060453	

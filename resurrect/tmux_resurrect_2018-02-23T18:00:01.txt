@@ -1,0 +1,8 @@
+pane	175951	1	:zsh	1	:*	1	:/Users/andrewrech	0	zsh	:-zsh
+pane	175951	1	:zsh	1	:*	2	:/Users/andrewrech	0	zsh	:-zsh
+pane	175951	1	:zsh	1	:*	3	:/Users/andrewrech	0	zsh	:-zsh
+pane	175951	1	:zsh	1	:*	4	:/Users/andrewrech	0	zsh	:-zsh
+pane	175951	1	:zsh	1	:*	5	:/Users/andrewrech	0	zsh	:-zsh
+pane	175951	1	:zsh	1	:*	6	:/Users/andrewrech	1	zsh	:-zsh
+window	175951	1	1	:*	d988,230x196,0,0[230x31,0,0,0,230x31,0,32,1,230x31,0,64,2,230x31,0,96,3,230x31,0,128,4,230x36,0,160,5]
+state	175951	

@@ -1,0 +1,6 @@
+(?d)**~$**
+(?d)**.rsync**
+(?d)**DS_Store**
+(?d)**node_modules**
+(?d)**.git**
+(?d)**package-lock**
