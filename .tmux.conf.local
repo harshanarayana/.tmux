@@ -231,7 +231,9 @@ tmux_conf_theme_clock_style='24'
 # this is the place to override or undo settings
 
 set -g @plugin 'tmux-plugins/tmux-resurrect'
+set -g @plugin 'tmux-plugins/tmux-yank'
 set -g @resurrect-strategy-nvim 'session'
+set -g @yank_action 'copy-pipe'
 
 
 # Disable visual notifications.
@@ -254,7 +256,7 @@ set -g history-limit 1000000
 
 set -g -q mouse on
 
-bind-key a run-shell "tmux save-buffer - | piknik -copy"
+bind-key a run-shell "tmux save-buffer - | xclip -in"
 
 bind-key right split-window -h
 bind-key left split-window -hb
@@ -298,4 +300,4 @@ set -g -a terminal-overrides ',*:Ss=\E[%p1%d q:Se=\E[2 q'
 set -ga terminal-overrides ',xterm-256color:Tc'
 
 # automatically copy selected text to clipboard
-bind-key -T copy-mode-vi MouseDragEnd1Pane send-keys -X copy-pipe-and-cancel "piknik -copy"
+bind-key -T copy-mode-vi MouseDragEnd1Pane send-keys -X copy-pipe "xclip -in"
